@@ -25,7 +25,7 @@
             size="100"
             
           >
-            <v-img src="https://cdn.vuetifyjs.com/images/profiles/marcus.jpg" />
+            <v-img src="https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Fcfile%2Ftistory%2F9958E83F5A6C4B6D30" />
           </v-avatar>
         </v-col>
 

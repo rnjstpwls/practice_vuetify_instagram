@@ -1,7 +1,7 @@
 <template>
   <v-app-bar
     app
-    color="light-blue darken-1"
+    color="pink lighten-4"
     dense
     dark
   >
